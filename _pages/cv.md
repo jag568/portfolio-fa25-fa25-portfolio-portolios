@@ -1,7 +1,7 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
-permalink: /cv/
+title: Joseph Gavacs - Curriculum Vitae
+permalink: https://cornell-mae-ug.github.io/fa25-portfolio-jag568/cv/
 ---
 ## Curriculum Vitae
 

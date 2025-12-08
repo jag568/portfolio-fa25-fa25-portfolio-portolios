@@ -1,7 +1,7 @@
 ---
 layout: default
 title: <Your Name> - Portfolio
-permalink: /projects/
+permalink: https://cornell-mae-ug.github.io/fa25-portfolio-jag568/projects/
 ---
 
 <div class="gallery-container">
