@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Joseph Gavacs - Curriculum Vitae
-permalink: /fa25-portfolio-jag568/cv/
+permalink: /cv/
 ---
 ## Curriculum Vitae
 
